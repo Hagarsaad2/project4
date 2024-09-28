@@ -499,7 +499,7 @@ header.service-contain
 .service .contain .custom-btn 
 {
     background-color: var(--primary-color);
-    width: 180PX;
+    width: 200PX;
     align-items: center;
     align-content: center;
     justify-content: center;
@@ -1040,13 +1040,6 @@ footer .contain .header .footer-contact .contact-data .flex-data p
 {
     position: absolute;
    
-}
-.new-article .contain p
-{
-    color: var(--dark-color); 
- 
-    font-size: 30px;
-    margin: -150px 30px;
 }
 header .service-head
 {
